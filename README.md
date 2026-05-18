@@ -1,4 +1,4 @@
-# ML and DL Algorithms — Short Notes
+# ML and DL Algorithms
 
 ---
 
